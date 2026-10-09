@@ -355,7 +355,7 @@ I take on web development, automation, AI agent and SEO projects. If you have a 
 <div align="center">
 
 [![Email Me](https://img.shields.io/badge/Email_Me-hssuperuserc@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hssuperuserc@gmail.com)
-[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-harshsharma.tech-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harshsharma.tech)
+[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-harshsharma.tech-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.harshsharma.tech)
 [![HMorix](https://img.shields.io/badge/Visit_HMorix-hmorix.in-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white)](https://hmorix.in)
 
 <br/>
