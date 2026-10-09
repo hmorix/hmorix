@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Harsh%20Sharma&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20-%20UI%20UX%20Designer%20-%20Automation%20and%20AI%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Harsh Sharma banner" />
 
-## <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Harsh%20Sharma&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Automation%20%26%20AI%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Harsh Sharma banner" />
+
 
 <a href="https://github.com/hmorix">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+production+web+apps+end+to+end;Turning+manual+processes+into+fast+digital+systems;AI+Agents+%7C+Automation+%7C+SEO+%7C+Design;Full+Stack+Developer+at+HMorix" alt="Typing animation" />
