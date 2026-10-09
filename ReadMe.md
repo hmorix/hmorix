@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-harshsharma.tech-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harshsharma.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harshsharma.tech-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.harshsharma.tech)
 [![HMorix](https://img.shields.io/badge/Company-hmorix.in-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white)](https://hmorix.in)
 [![Email](https://img.shields.io/badge/Email-hssuperuserc@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hssuperuserc@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hmorix-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hmorix)
